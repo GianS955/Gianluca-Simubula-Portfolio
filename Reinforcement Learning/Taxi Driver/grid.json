@@ -1,0 +1,162 @@
+{
+  "rows": 5,
+  "columns": 5,
+  "cells": [
+    {
+      "i": 0,
+      "j": 0,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 0,
+      "j": 1,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 0,
+      "j": 2,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 0,
+      "j": 3,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 0,
+      "j": 4,
+      "type": "pick-up/drop-off",
+      "obstacles": ["S"]
+    },
+    {
+      "i": 1,
+      "j": 0,
+      "type": "road",
+      "obstacles": ["S"]
+    },
+    {
+      "i": 1,
+      "j": 1,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 1,
+      "j": 2,
+      "type": "building",
+      "obstacles": []
+    },
+    {
+      "i": 1,
+      "j": 3,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 1,
+      "j": 4,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 2,
+      "j": 0,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 2,
+      "j": 1,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 2,
+      "j": 2,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 2,
+      "j": 3,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 2,
+      "j": 4,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 3,
+      "j": 0,
+      "type": "road",
+      "obstacles": ["S"]
+    },
+    {
+      "i": 3,
+      "j": 1,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 3,
+      "j": 2,
+      "type": "building",
+      "obstacles": []
+    },
+    {
+      "i": 3,
+      "j": 3,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 3,
+      "j": 4,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 4,
+      "j": 0,
+      "type": "pick-up/drop-off",
+      "obstacles": []
+    },
+    {
+      "i": 4,
+      "j": 1,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 4,
+      "j": 2,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 4,
+      "j": 3,
+      "type": "road",
+      "obstacles": []
+    },
+    {
+      "i": 4,
+      "j": 4,
+      "type": "pick-up/drop-off",
+      "obstacles": ["W"]
+    }
+  ],
+  "passengers": [
+    {
+      "position":[4,0],
+      "destination": [0, 4]
+    }
+  ]
+}
